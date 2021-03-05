@@ -1,3 +1,8 @@
 # wq
 hi， 小话痨
-小话痨不想睡觉
+#include <iostream>
+
+int main()
+{
+    std::cout << "Hello World!\n";
+}
